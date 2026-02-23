@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/ahmeddarwish/hpc-slurm","disabled":false,"rsync__exclude":[".git/",".vagrant/"],"__vagrantfile":true,"exclude":[".git/",".vagrant/"],"owner":"vagrant","group":"vagrant"}}}
